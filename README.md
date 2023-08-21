@@ -5,7 +5,7 @@ Another you can select the speed of sound.
 
 ### Screenshot
 
-![](screen.PNG)
+![](screen.png)
 
 ### Links
 
